@@ -1,6 +1,7 @@
 # gold-silver-3box
 
-This is in response to a tweet sent out by Sean Silverman (@BarExamTutor).
+This is in response to a tweet sent out by Sean Silverman
+([@BarExamTutor](https://twitter.com/BarExamTutor)).
 https://twitter.com/BarExamTutor/status/1472746730017939457
 > Kind of reminds me of that old “Monte Hall” problem (with the goats and car).
 > But far as I can tell, the answer to this one has got to be 2/3.
